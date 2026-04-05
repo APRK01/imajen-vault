@@ -1,5 +1,105 @@
 [
   {
+    "id": "sdxl-1775358108-0",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358108-0.png",
+    "title": "Monument 71",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "massive cooling tower made of form-work textures in dusk gloom, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T03:01:49.158578"
+  },
+  {
+    "id": "sdxl-1775358135-1",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358135-1.png",
+    "title": "Monument 72",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "raw concrete bridge made of weathered concrete in heavy fog, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T03:02:16.618149"
+  },
+  {
+    "id": "sdxl-1775358163-2",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358163-2.png",
+    "title": "Monument 73",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "bioluminescent trench structure made of matte-finish steel in bioluminescent red glow, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Oceanic Abyssal",
+    "date": "2026-04-05T03:02:44.152677"
+  },
+  {
+    "id": "sdxl-1775358190-3",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358190-3.png",
+    "title": "Monument 74",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "limestone temple ruin made of oxidized bronze in sunset amber glow, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ancient Monumental",
+    "date": "2026-04-05T03:03:11.740785"
+  },
+  {
+    "id": "sdxl-1775358218-4",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358218-4.png",
+    "title": "Monument 75",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "geometric star-temple made of crystalline glass in nebula purple glow, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ethereal Void",
+    "date": "2026-04-05T03:03:39.195126"
+  },
+  {
+    "id": "sdxl-1775358245-5",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358245-5.png",
+    "title": "Monument 76",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "limestone temple ruin made of oxidized bronze in dusty historic air, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ancient Monumental",
+    "date": "2026-04-05T03:04:06.684632"
+  },
+  {
+    "id": "sdxl-1775358273-6",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358273-6.png",
+    "title": "Monument 77",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "flooded subterranean server-vault made of holographic glass in night-city fog, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Neon Cyberpunk",
+    "date": "2026-04-05T03:04:34.328727"
+  },
+  {
+    "id": "sdxl-1775358301-7",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358301-7.png",
+    "title": "Monument 78",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "floating marble pyramid made of white marble in stellar silence, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ethereal Void",
+    "date": "2026-04-05T03:05:01.878622"
+  },
+  {
+    "id": "sdxl-1775358328-8",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358328-8.png",
+    "title": "Monument 79",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "massive cooling tower made of exposed beams in sharp shadows, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T03:05:29.637824"
+  },
+  {
+    "id": "sdxl-1775358356-9",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775358356-9.png",
+    "title": "Monument 80",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "rainy data-center made of wet obsidian in night-city fog, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Neon Cyberpunk",
+    "date": "2026-04-05T03:05:57.353404"
+  },
+  {
     "id": "sdxl-1775357831-0",
     "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775357831-0.png",
     "title": "Monument 61",
