@@ -1,0 +1,36 @@
+name: VAULT RECONSTRUCTION
+on: workflow_dispatch
+jobs:
+  reconstruct:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Reorganize Vault
+        run: |
+          mkdir -p batches/batch-1 batches/batch-2 batches/batch-3
+          # Move images into /batches/ folders
+          ls art-*.png | head -n 500 | xargs -I {} mv {} batches/batch-1/ || true
+          ls art-*.png | head -n 500 | xargs -I {} mv {} batches/batch-2/ || true
+          ls art-*.png | xargs -I {} mv {} batches/batch-3/ || true
+          # Atomic path update for manifest.json
+          python3 -c "
+import json, os
+with open(\"manifest.json\", \"r\") as f:
+    data = json.load(f)
+for entry in data:
+    name = os.path.basename(entry[\"image\"])
+    # Find where the file is now
+    if os.path.exists(f\"batches/batch-1/{name}\"):
+        entry[\"image\"] = f\"https://raw.githubusercontent.com/APRK01/imajen-vault/main/batches/batch-1/{name}\"
+    elif os.path.exists(f\"batches/batch-2/{name}\"):
+        entry[\"image\"] = f\"https://raw.githubusercontent.com/APRK01/imajen-vault/main/batches/batch-2/{name}\"
+    elif os.path.exists(f\"batches/batch-3/{name}\"):
+        entry[\"image\"] = f\"https://raw.githubusercontent.com/APRK01/imajen-vault/main/batches/batch-3/{name}\"
+with open(\"manifest.json\", \"w\") as f:
+    json.dump(data, f, indent=2)
+"
+          git config --global user.name "APRK01"
+          git config --global user.email "neonaut@studio.ai"
+          git add .
+          git commit -m "��️ MONUMENTAL RECONSTRUCTION: Vault Structuring Complete [v9]"
+          git push origin main
