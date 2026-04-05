@@ -1,5 +1,105 @@
 [
   {
+    "id": "sdxl-1775378371-0",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378371-0.png",
+    "title": "Monument 801",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "raw concrete bridge made of weathered concrete in sharp shadows, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T08:39:32.884881"
+  },
+  {
+    "id": "sdxl-1775378399-1",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378399-1.png",
+    "title": "Monument 802",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "weathered sea-wall made of bio-reactive coral in faint bioluminescence, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Oceanic Abyssal",
+    "date": "2026-04-05T08:40:00.571868"
+  },
+  {
+    "id": "sdxl-1775378427-2",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378427-2.png",
+    "title": "Monument 803",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "bioluminescent trench structure made of black obsidian in faint bioluminescence, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Oceanic Abyssal",
+    "date": "2026-04-05T08:40:28.242852"
+  },
+  {
+    "id": "sdxl-1775378454-3",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378454-3.png",
+    "title": "Monument 804",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "wire-clutter alleyway made of wet obsidian in sharp noir lighting, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Neon Cyberpunk",
+    "date": "2026-04-05T08:40:55.884748"
+  },
+  {
+    "id": "sdxl-1775378482-4",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378482-4.png",
+    "title": "Monument 805",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "submerged brutalist rig made of black obsidian in abyssal blue haze, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Oceanic Abyssal",
+    "date": "2026-04-05T08:41:23.605361"
+  },
+  {
+    "id": "sdxl-1775378510-5",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378510-5.png",
+    "title": "Monument 806",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "floating marble pyramid made of white marble in nebula purple glow, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ethereal Void",
+    "date": "2026-04-05T08:41:51.131358"
+  },
+  {
+    "id": "sdxl-1775378538-6",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378538-6.png",
+    "title": "Monument 807",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "granite column array made of veined white marble in overcast shadow, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Ancient Monumental",
+    "date": "2026-04-05T08:42:18.785425"
+  },
+  {
+    "id": "sdxl-1775378565-7",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378565-7.png",
+    "title": "Monument 808",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "brutalist dam made of exposed beams in sharp shadows, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T08:42:46.652129"
+  },
+  {
+    "id": "sdxl-1775378593-8",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378593-8.png",
+    "title": "Monument 809",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "submerged brutalist rig made of bio-reactive coral in abyssal blue haze, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Oceanic Abyssal",
+    "date": "2026-04-05T08:43:14.305090"
+  },
+  {
+    "id": "sdxl-1775378621-9",
+    "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378621-9.png",
+    "title": "Monument 810",
+    "author": "NEONAUT-MULTI-VERSE",
+    "prompt": "raw concrete bridge made of rusted rebar in industrial sunset, industrial aesthetic, cinematic lighting, masterpiece, highly detailed, 8k, editorial photography",
+    "model": "SDXL-1.0-Base",
+    "category": "Industrial Brutalism",
+    "date": "2026-04-05T08:43:41.935303"
+  },
+  {
     "id": "sdxl-1775378092-0",
     "image": "https://cdn.jsdelivr.net/gh/APRK01/imajen-vault@main/art-1775378092-0.png",
     "title": "Monument 791",
